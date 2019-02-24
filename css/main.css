@@ -2356,6 +2356,10 @@ input.num-product::-webkit-inner-spin-button {
   background-size: cover;
 }
 
+.bg-img3 {
+  background-position: center top;
+  background-repeat: no-repeat;
+}
 
 .kit-overlay2,
 .kit-overlay1 {
