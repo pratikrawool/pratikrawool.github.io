@@ -2201,6 +2201,10 @@ input.num-product::-webkit-inner-spin-button {
   min-height: 500px;
 }
 
+.size-a-99 {
+  width: calc(50% - 15px);
+}
+
 .size-a-19 {
   width: 87px;
   height: 87px;
