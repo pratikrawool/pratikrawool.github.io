@@ -1221,7 +1221,7 @@
 }
 
 .progress-inner::before {
-  content: attr(data-percent);
+  content: attr(data-add);
   font-family: Roboto-Bold;
   font-size: 14px;
   line-height: 1.2;
