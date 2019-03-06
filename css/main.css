@@ -446,7 +446,6 @@
 }
 
 .fix-menu-desktop .wrap-menu-desktop {
-  height: 60px;
   box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
   -moz-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
   -webkit-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
