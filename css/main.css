@@ -1983,6 +1983,13 @@ input.num-product::-webkit-inner-spin-button {
   font-family: Roboto-Regular;
   font-size: 14px;
   line-height: 1.7;
+  text-align: justify;
+}
+
+.t1-s-99 {
+  font-family: Roboto-Regular;
+  font-size: 14px;
+  line-height: 1.7;
 }
 
 .t1-s-3 {
