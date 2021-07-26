@@ -1,0 +1,6 @@
+[26-Apr-2021 13:47:44 Asia/Kolkata] PHP Warning:  require(php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/rgmxrvaw/public_html/php/contact-form.php on line 7
+[26-Apr-2021 13:47:44 Asia/Kolkata] PHP Warning:  require(php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/rgmxrvaw/public_html/php/contact-form.php on line 7
+[26-Apr-2021 13:47:44 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'php-mailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rgmxrvaw/public_html/php/contact-form.php on line 7
+[16-May-2021 19:37:38 Asia/Kolkata] PHP Warning:  require(php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/rgmxrvaw/public_html/php/contact-form.php on line 7
+[16-May-2021 19:37:38 Asia/Kolkata] PHP Warning:  require(php-mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/rgmxrvaw/public_html/php/contact-form.php on line 7
+[16-May-2021 19:37:38 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'php-mailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rgmxrvaw/public_html/php/contact-form.php on line 7
